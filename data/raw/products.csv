@@ -1,0 +1,1001 @@
+product_id,product_name,category,unit_price
+P0001,Product 0001,Automotive,10.15
+P0002,Product 0002,Machinery,32.28
+P0003,Product 0003,Machinery,26.58
+P0004,Product 0004,Packaging,31.94
+P0005,Product 0005,Machinery,34.13
+P0006,Product 0006,Automotive,12.76
+P0007,Product 0007,Electronics,12.39
+P0008,Product 0008,Machinery,40.47
+P0009,Product 0009,Spare Parts,15.79
+P0010,Product 0010,Machinery,3.58
+P0011,Product 0011,Packaging,38.63
+P0012,Product 0012,Packaging,11.88
+P0013,Product 0013,Electronics,34.02
+P0014,Product 0014,Spare Parts,65.04
+P0015,Product 0015,Packaging,24.82
+P0016,Product 0016,Spare Parts,49.26
+P0017,Product 0017,Packaging,27.32
+P0018,Product 0018,Packaging,74.53
+P0019,Product 0019,Automotive,11.66
+P0020,Product 0020,Machinery,24.39
+P0021,Product 0021,Automotive,39.3
+P0022,Product 0022,Packaging,21.47
+P0023,Product 0023,Packaging,54.96
+P0024,Product 0024,Machinery,18.13
+P0025,Product 0025,Electronics,104.43
+P0026,Product 0026,Automotive,108.37
+P0027,Product 0027,Packaging,29.89
+P0028,Product 0028,Packaging,36.12
+P0029,Product 0029,Machinery,56.5
+P0030,Product 0030,Packaging,10.69
+P0031,Product 0031,Packaging,9.79
+P0032,Product 0032,Machinery,59.12
+P0033,Product 0033,Automotive,29.72
+P0034,Product 0034,Spare Parts,20.94
+P0035,Product 0035,Machinery,24.72
+P0036,Product 0036,Packaging,4.62
+P0037,Product 0037,Spare Parts,21.47
+P0038,Product 0038,Electronics,14.48
+P0039,Product 0039,Packaging,46.65
+P0040,Product 0040,Automotive,49.23
+P0041,Product 0041,Spare Parts,36.73
+P0042,Product 0042,Automotive,32.36
+P0043,Product 0043,Machinery,8.6
+P0044,Product 0044,Electronics,37.09
+P0045,Product 0045,Automotive,38.11
+P0046,Product 0046,Machinery,58.65
+P0047,Product 0047,Spare Parts,108.07
+P0048,Product 0048,Automotive,7.5
+P0049,Product 0049,Electronics,18.69
+P0050,Product 0050,Automotive,14.59
+P0051,Product 0051,Automotive,27.68
+P0052,Product 0052,Electronics,24.76
+P0053,Product 0053,Machinery,20.82
+P0054,Product 0054,Packaging,50.37
+P0055,Product 0055,Packaging,11.35
+P0056,Product 0056,Packaging,11.84
+P0057,Product 0057,Packaging,11.98
+P0058,Product 0058,Electronics,19.06
+P0059,Product 0059,Spare Parts,10.38
+P0060,Product 0060,Automotive,23.71
+P0061,Product 0061,Packaging,21.85
+P0062,Product 0062,Automotive,14.15
+P0063,Product 0063,Packaging,45.22
+P0064,Product 0064,Automotive,23.53
+P0065,Product 0065,Electronics,51.62
+P0066,Product 0066,Electronics,21.4
+P0067,Product 0067,Packaging,24.12
+P0068,Product 0068,Automotive,16.54
+P0069,Product 0069,Electronics,24.41
+P0070,Product 0070,Electronics,40.39
+P0071,Product 0071,Packaging,18.39
+P0072,Product 0072,Spare Parts,35.26
+P0073,Product 0073,Packaging,13.89
+P0074,Product 0074,Machinery,41.73
+P0075,Product 0075,Electronics,16.35
+P0076,Product 0076,Spare Parts,44.53
+P0077,Product 0077,Automotive,25.6
+P0078,Product 0078,Automotive,71.14
+P0079,Product 0079,Electronics,10.94
+P0080,Product 0080,Electronics,8.73
+P0081,Product 0081,Machinery,15.94
+P0082,Product 0082,Spare Parts,9.31
+P0083,Product 0083,Packaging,9.32
+P0084,Product 0084,Electronics,37.91
+P0085,Product 0085,Electronics,24.46
+P0086,Product 0086,Packaging,17.54
+P0087,Product 0087,Electronics,18.71
+P0088,Product 0088,Spare Parts,16.15
+P0089,Product 0089,Machinery,77.89
+P0090,Product 0090,Machinery,14.66
+P0091,Product 0091,Spare Parts,9.72
+P0092,Product 0092,Electronics,42.83
+P0093,Product 0093,Machinery,21.09
+P0094,Product 0094,Machinery,102.22
+P0095,Product 0095,Electronics,16.97
+P0096,Product 0096,Automotive,44.35
+P0097,Product 0097,Electronics,52.33
+P0098,Product 0098,Automotive,17.03
+P0099,Product 0099,Packaging,14.58
+P0100,Product 0100,Automotive,41.22
+P0101,Product 0101,Electronics,36.69
+P0102,Product 0102,Spare Parts,9.14
+P0103,Product 0103,Machinery,11.14
+P0104,Product 0104,Packaging,4.16
+P0105,Product 0105,Packaging,37.22
+P0106,Product 0106,Electronics,20.42
+P0107,Product 0107,Packaging,21.9
+P0108,Product 0108,Electronics,7.51
+P0109,Product 0109,Packaging,11.37
+P0110,Product 0110,Packaging,17.56
+P0111,Product 0111,Spare Parts,15.32
+P0112,Product 0112,Spare Parts,26.64
+P0113,Product 0113,Automotive,36.91
+P0114,Product 0114,Electronics,120.15
+P0115,Product 0115,Machinery,24.19
+P0116,Product 0116,Electronics,53.56
+P0117,Product 0117,Packaging,13.72
+P0118,Product 0118,Spare Parts,7.6
+P0119,Product 0119,Electronics,19.17
+P0120,Product 0120,Spare Parts,8.02
+P0121,Product 0121,Spare Parts,24.79
+P0122,Product 0122,Spare Parts,14.21
+P0123,Product 0123,Automotive,6.25
+P0124,Product 0124,Electronics,82.7
+P0125,Product 0125,Automotive,16.84
+P0126,Product 0126,Automotive,7.8
+P0127,Product 0127,Automotive,46.0
+P0128,Product 0128,Machinery,14.73
+P0129,Product 0129,Automotive,52.62
+P0130,Product 0130,Electronics,14.68
+P0131,Product 0131,Spare Parts,16.8
+P0132,Product 0132,Spare Parts,31.23
+P0133,Product 0133,Spare Parts,37.16
+P0134,Product 0134,Automotive,42.01
+P0135,Product 0135,Packaging,23.04
+P0136,Product 0136,Packaging,35.52
+P0137,Product 0137,Automotive,41.34
+P0138,Product 0138,Spare Parts,28.23
+P0139,Product 0139,Machinery,22.2
+P0140,Product 0140,Spare Parts,8.92
+P0141,Product 0141,Automotive,37.32
+P0142,Product 0142,Packaging,25.27
+P0143,Product 0143,Automotive,18.37
+P0144,Product 0144,Spare Parts,60.01
+P0145,Product 0145,Packaging,9.03
+P0146,Product 0146,Automotive,77.54
+P0147,Product 0147,Electronics,24.15
+P0148,Product 0148,Electronics,30.64
+P0149,Product 0149,Automotive,18.61
+P0150,Product 0150,Automotive,7.64
+P0151,Product 0151,Spare Parts,22.25
+P0152,Product 0152,Spare Parts,31.01
+P0153,Product 0153,Machinery,39.38
+P0154,Product 0154,Spare Parts,21.36
+P0155,Product 0155,Packaging,5.29
+P0156,Product 0156,Automotive,8.34
+P0157,Product 0157,Packaging,103.17
+P0158,Product 0158,Automotive,11.42
+P0159,Product 0159,Spare Parts,66.62
+P0160,Product 0160,Electronics,12.76
+P0161,Product 0161,Automotive,21.59
+P0162,Product 0162,Electronics,38.0
+P0163,Product 0163,Packaging,13.82
+P0164,Product 0164,Spare Parts,74.78
+P0165,Product 0165,Machinery,25.87
+P0166,Product 0166,Automotive,33.87
+P0167,Product 0167,Spare Parts,20.34
+P0168,Product 0168,Packaging,38.9
+P0169,Product 0169,Machinery,74.08
+P0170,Product 0170,Machinery,22.38
+P0171,Product 0171,Spare Parts,82.34
+P0172,Product 0172,Electronics,15.99
+P0173,Product 0173,Automotive,41.88
+P0174,Product 0174,Automotive,34.55
+P0175,Product 0175,Packaging,11.61
+P0176,Product 0176,Spare Parts,28.49
+P0177,Product 0177,Packaging,24.66
+P0178,Product 0178,Packaging,13.5
+P0179,Product 0179,Electronics,31.52
+P0180,Product 0180,Machinery,27.18
+P0181,Product 0181,Automotive,23.32
+P0182,Product 0182,Electronics,23.38
+P0183,Product 0183,Packaging,23.03
+P0184,Product 0184,Spare Parts,18.97
+P0185,Product 0185,Spare Parts,27.06
+P0186,Product 0186,Spare Parts,15.63
+P0187,Product 0187,Automotive,157.55
+P0188,Product 0188,Spare Parts,9.15
+P0189,Product 0189,Electronics,16.29
+P0190,Product 0190,Packaging,17.22
+P0191,Product 0191,Spare Parts,102.34
+P0192,Product 0192,Spare Parts,9.74
+P0193,Product 0193,Packaging,33.05
+P0194,Product 0194,Electronics,29.19
+P0195,Product 0195,Machinery,30.99
+P0196,Product 0196,Packaging,58.29
+P0197,Product 0197,Machinery,57.46
+P0198,Product 0198,Machinery,17.89
+P0199,Product 0199,Machinery,28.1
+P0200,Product 0200,Machinery,6.65
+P0201,Product 0201,Automotive,26.29
+P0202,Product 0202,Spare Parts,14.07
+P0203,Product 0203,Automotive,21.53
+P0204,Product 0204,Spare Parts,7.54
+P0205,Product 0205,Automotive,32.57
+P0206,Product 0206,Machinery,7.48
+P0207,Product 0207,Machinery,27.22
+P0208,Product 0208,Machinery,10.4
+P0209,Product 0209,Machinery,13.53
+P0210,Product 0210,Spare Parts,55.05
+P0211,Product 0211,Automotive,37.02
+P0212,Product 0212,Spare Parts,54.84
+P0213,Product 0213,Packaging,73.1
+P0214,Product 0214,Packaging,14.28
+P0215,Product 0215,Automotive,70.05
+P0216,Product 0216,Automotive,8.79
+P0217,Product 0217,Electronics,41.36
+P0218,Product 0218,Electronics,17.37
+P0219,Product 0219,Packaging,12.79
+P0220,Product 0220,Spare Parts,37.72
+P0221,Product 0221,Machinery,47.53
+P0222,Product 0222,Packaging,46.56
+P0223,Product 0223,Automotive,28.51
+P0224,Product 0224,Packaging,26.91
+P0225,Product 0225,Automotive,35.47
+P0226,Product 0226,Packaging,30.35
+P0227,Product 0227,Electronics,35.84
+P0228,Product 0228,Machinery,28.3
+P0229,Product 0229,Electronics,44.25
+P0230,Product 0230,Machinery,7.85
+P0231,Product 0231,Spare Parts,22.38
+P0232,Product 0232,Spare Parts,9.31
+P0233,Product 0233,Electronics,29.78
+P0234,Product 0234,Electronics,77.43
+P0235,Product 0235,Machinery,17.6
+P0236,Product 0236,Packaging,26.82
+P0237,Product 0237,Automotive,41.66
+P0238,Product 0238,Packaging,5.77
+P0239,Product 0239,Spare Parts,17.02
+P0240,Product 0240,Spare Parts,31.66
+P0241,Product 0241,Machinery,3.23
+P0242,Product 0242,Electronics,12.38
+P0243,Product 0243,Electronics,53.02
+P0244,Product 0244,Packaging,49.51
+P0245,Product 0245,Machinery,31.88
+P0246,Product 0246,Automotive,45.49
+P0247,Product 0247,Packaging,28.52
+P0248,Product 0248,Automotive,36.19
+P0249,Product 0249,Spare Parts,19.67
+P0250,Product 0250,Machinery,26.6
+P0251,Product 0251,Electronics,15.76
+P0252,Product 0252,Automotive,59.41
+P0253,Product 0253,Automotive,71.17
+P0254,Product 0254,Spare Parts,64.45
+P0255,Product 0255,Machinery,18.44
+P0256,Product 0256,Spare Parts,12.58
+P0257,Product 0257,Spare Parts,59.97
+P0258,Product 0258,Automotive,35.9
+P0259,Product 0259,Electronics,30.88
+P0260,Product 0260,Spare Parts,15.74
+P0261,Product 0261,Machinery,33.05
+P0262,Product 0262,Machinery,11.48
+P0263,Product 0263,Machinery,38.24
+P0264,Product 0264,Packaging,64.41
+P0265,Product 0265,Spare Parts,76.84
+P0266,Product 0266,Spare Parts,40.28
+P0267,Product 0267,Packaging,9.32
+P0268,Product 0268,Machinery,28.17
+P0269,Product 0269,Electronics,109.7
+P0270,Product 0270,Automotive,13.36
+P0271,Product 0271,Packaging,23.54
+P0272,Product 0272,Automotive,65.99
+P0273,Product 0273,Packaging,37.79
+P0274,Product 0274,Machinery,139.23
+P0275,Product 0275,Packaging,14.69
+P0276,Product 0276,Spare Parts,12.27
+P0277,Product 0277,Machinery,57.79
+P0278,Product 0278,Machinery,10.62
+P0279,Product 0279,Machinery,21.38
+P0280,Product 0280,Electronics,23.43
+P0281,Product 0281,Automotive,50.66
+P0282,Product 0282,Automotive,37.71
+P0283,Product 0283,Packaging,33.78
+P0284,Product 0284,Spare Parts,18.51
+P0285,Product 0285,Automotive,57.43
+P0286,Product 0286,Electronics,410.79
+P0287,Product 0287,Packaging,39.8
+P0288,Product 0288,Packaging,26.31
+P0289,Product 0289,Packaging,9.89
+P0290,Product 0290,Packaging,15.7
+P0291,Product 0291,Automotive,21.12
+P0292,Product 0292,Electronics,16.87
+P0293,Product 0293,Machinery,24.26
+P0294,Product 0294,Automotive,85.17
+P0295,Product 0295,Electronics,58.73
+P0296,Product 0296,Electronics,21.95
+P0297,Product 0297,Spare Parts,10.53
+P0298,Product 0298,Electronics,62.56
+P0299,Product 0299,Spare Parts,23.7
+P0300,Product 0300,Packaging,7.33
+P0301,Product 0301,Packaging,40.39
+P0302,Product 0302,Spare Parts,50.3
+P0303,Product 0303,Spare Parts,4.49
+P0304,Product 0304,Electronics,13.77
+P0305,Product 0305,Machinery,22.71
+P0306,Product 0306,Machinery,41.02
+P0307,Product 0307,Spare Parts,17.1
+P0308,Product 0308,Automotive,13.7
+P0309,Product 0309,Machinery,40.81
+P0310,Product 0310,Electronics,17.68
+P0311,Product 0311,Electronics,35.85
+P0312,Product 0312,Packaging,11.27
+P0313,Product 0313,Electronics,9.52
+P0314,Product 0314,Packaging,41.62
+P0315,Product 0315,Spare Parts,29.28
+P0316,Product 0316,Packaging,46.79
+P0317,Product 0317,Automotive,16.9
+P0318,Product 0318,Automotive,14.06
+P0319,Product 0319,Machinery,63.59
+P0320,Product 0320,Machinery,8.45
+P0321,Product 0321,Packaging,58.91
+P0322,Product 0322,Machinery,61.83
+P0323,Product 0323,Automotive,44.79
+P0324,Product 0324,Spare Parts,15.16
+P0325,Product 0325,Spare Parts,13.85
+P0326,Product 0326,Packaging,21.18
+P0327,Product 0327,Packaging,9.91
+P0328,Product 0328,Spare Parts,12.51
+P0329,Product 0329,Machinery,38.53
+P0330,Product 0330,Automotive,38.65
+P0331,Product 0331,Packaging,11.77
+P0332,Product 0332,Machinery,39.38
+P0333,Product 0333,Packaging,33.72
+P0334,Product 0334,Packaging,70.59
+P0335,Product 0335,Machinery,36.54
+P0336,Product 0336,Electronics,51.47
+P0337,Product 0337,Machinery,34.26
+P0338,Product 0338,Packaging,48.71
+P0339,Product 0339,Packaging,9.96
+P0340,Product 0340,Machinery,22.53
+P0341,Product 0341,Machinery,23.87
+P0342,Product 0342,Spare Parts,20.68
+P0343,Product 0343,Electronics,33.47
+P0344,Product 0344,Automotive,38.25
+P0345,Product 0345,Packaging,32.28
+P0346,Product 0346,Spare Parts,21.67
+P0347,Product 0347,Packaging,14.66
+P0348,Product 0348,Machinery,52.88
+P0349,Product 0349,Electronics,31.34
+P0350,Product 0350,Machinery,12.02
+P0351,Product 0351,Automotive,21.42
+P0352,Product 0352,Machinery,7.24
+P0353,Product 0353,Electronics,25.15
+P0354,Product 0354,Electronics,21.35
+P0355,Product 0355,Machinery,16.41
+P0356,Product 0356,Spare Parts,74.38
+P0357,Product 0357,Electronics,10.92
+P0358,Product 0358,Spare Parts,40.22
+P0359,Product 0359,Machinery,113.37
+P0360,Product 0360,Spare Parts,52.15
+P0361,Product 0361,Electronics,24.0
+P0362,Product 0362,Spare Parts,11.09
+P0363,Product 0363,Packaging,9.46
+P0364,Product 0364,Packaging,18.39
+P0365,Product 0365,Machinery,15.17
+P0366,Product 0366,Machinery,14.83
+P0367,Product 0367,Machinery,19.52
+P0368,Product 0368,Spare Parts,22.84
+P0369,Product 0369,Packaging,34.45
+P0370,Product 0370,Automotive,10.31
+P0371,Product 0371,Packaging,15.22
+P0372,Product 0372,Spare Parts,21.94
+P0373,Product 0373,Packaging,21.4
+P0374,Product 0374,Machinery,88.72
+P0375,Product 0375,Electronics,28.86
+P0376,Product 0376,Packaging,7.93
+P0377,Product 0377,Packaging,32.88
+P0378,Product 0378,Electronics,35.94
+P0379,Product 0379,Machinery,22.48
+P0380,Product 0380,Electronics,10.49
+P0381,Product 0381,Automotive,83.99
+P0382,Product 0382,Automotive,11.6
+P0383,Product 0383,Automotive,38.96
+P0384,Product 0384,Machinery,28.22
+P0385,Product 0385,Machinery,37.36
+P0386,Product 0386,Machinery,81.03
+P0387,Product 0387,Spare Parts,36.35
+P0388,Product 0388,Electronics,16.59
+P0389,Product 0389,Electronics,53.21
+P0390,Product 0390,Electronics,15.77
+P0391,Product 0391,Electronics,27.51
+P0392,Product 0392,Machinery,9.92
+P0393,Product 0393,Electronics,11.9
+P0394,Product 0394,Electronics,25.43
+P0395,Product 0395,Packaging,31.74
+P0396,Product 0396,Spare Parts,7.45
+P0397,Product 0397,Electronics,34.75
+P0398,Product 0398,Automotive,13.82
+P0399,Product 0399,Electronics,60.09
+P0400,Product 0400,Machinery,19.18
+P0401,Product 0401,Spare Parts,11.17
+P0402,Product 0402,Automotive,25.87
+P0403,Product 0403,Automotive,12.92
+P0404,Product 0404,Machinery,59.64
+P0405,Product 0405,Spare Parts,24.54
+P0406,Product 0406,Machinery,22.06
+P0407,Product 0407,Spare Parts,37.12
+P0408,Product 0408,Packaging,12.14
+P0409,Product 0409,Automotive,9.95
+P0410,Product 0410,Machinery,32.65
+P0411,Product 0411,Packaging,11.36
+P0412,Product 0412,Machinery,11.36
+P0413,Product 0413,Automotive,44.07
+P0414,Product 0414,Automotive,35.43
+P0415,Product 0415,Packaging,10.2
+P0416,Product 0416,Machinery,15.9
+P0417,Product 0417,Machinery,13.03
+P0418,Product 0418,Electronics,85.07
+P0419,Product 0419,Electronics,46.26
+P0420,Product 0420,Packaging,18.27
+P0421,Product 0421,Automotive,36.72
+P0422,Product 0422,Machinery,9.49
+P0423,Product 0423,Electronics,15.32
+P0424,Product 0424,Packaging,26.4
+P0425,Product 0425,Packaging,33.67
+P0426,Product 0426,Machinery,22.91
+P0427,Product 0427,Electronics,29.18
+P0428,Product 0428,Electronics,25.92
+P0429,Product 0429,Electronics,21.88
+P0430,Product 0430,Electronics,19.94
+P0431,Product 0431,Packaging,18.2
+P0432,Product 0432,Automotive,28.86
+P0433,Product 0433,Automotive,32.71
+P0434,Product 0434,Machinery,28.19
+P0435,Product 0435,Electronics,10.75
+P0436,Product 0436,Spare Parts,12.19
+P0437,Product 0437,Packaging,32.43
+P0438,Product 0438,Packaging,68.73
+P0439,Product 0439,Machinery,27.29
+P0440,Product 0440,Machinery,18.39
+P0441,Product 0441,Machinery,28.7
+P0442,Product 0442,Automotive,11.07
+P0443,Product 0443,Machinery,61.33
+P0444,Product 0444,Spare Parts,27.96
+P0445,Product 0445,Electronics,15.35
+P0446,Product 0446,Automotive,21.83
+P0447,Product 0447,Machinery,16.96
+P0448,Product 0448,Electronics,61.45
+P0449,Product 0449,Packaging,21.29
+P0450,Product 0450,Spare Parts,27.35
+P0451,Product 0451,Spare Parts,36.66
+P0452,Product 0452,Electronics,14.61
+P0453,Product 0453,Spare Parts,28.1
+P0454,Product 0454,Automotive,29.73
+P0455,Product 0455,Electronics,8.27
+P0456,Product 0456,Electronics,29.28
+P0457,Product 0457,Spare Parts,23.76
+P0458,Product 0458,Packaging,26.87
+P0459,Product 0459,Electronics,25.15
+P0460,Product 0460,Automotive,29.41
+P0461,Product 0461,Packaging,62.56
+P0462,Product 0462,Packaging,10.74
+P0463,Product 0463,Spare Parts,19.31
+P0464,Product 0464,Machinery,39.12
+P0465,Product 0465,Automotive,34.35
+P0466,Product 0466,Electronics,33.84
+P0467,Product 0467,Packaging,168.6
+P0468,Product 0468,Electronics,37.71
+P0469,Product 0469,Automotive,54.14
+P0470,Product 0470,Spare Parts,19.79
+P0471,Product 0471,Machinery,12.24
+P0472,Product 0472,Electronics,19.69
+P0473,Product 0473,Machinery,40.38
+P0474,Product 0474,Packaging,32.62
+P0475,Product 0475,Automotive,32.53
+P0476,Product 0476,Machinery,21.11
+P0477,Product 0477,Electronics,18.88
+P0478,Product 0478,Automotive,21.63
+P0479,Product 0479,Automotive,40.74
+P0480,Product 0480,Machinery,44.19
+P0481,Product 0481,Machinery,12.13
+P0482,Product 0482,Machinery,41.83
+P0483,Product 0483,Packaging,15.56
+P0484,Product 0484,Machinery,34.06
+P0485,Product 0485,Machinery,21.45
+P0486,Product 0486,Spare Parts,73.41
+P0487,Product 0487,Packaging,18.31
+P0488,Product 0488,Spare Parts,27.8
+P0489,Product 0489,Electronics,37.51
+P0490,Product 0490,Packaging,13.31
+P0491,Product 0491,Packaging,23.31
+P0492,Product 0492,Machinery,20.36
+P0493,Product 0493,Automotive,17.12
+P0494,Product 0494,Machinery,18.03
+P0495,Product 0495,Spare Parts,53.43
+P0496,Product 0496,Packaging,16.14
+P0497,Product 0497,Automotive,36.47
+P0498,Product 0498,Electronics,30.58
+P0499,Product 0499,Machinery,9.23
+P0500,Product 0500,Spare Parts,35.28
+P0501,Product 0501,Machinery,9.12
+P0502,Product 0502,Spare Parts,38.08
+P0503,Product 0503,Packaging,17.2
+P0504,Product 0504,Electronics,24.68
+P0505,Product 0505,Automotive,9.91
+P0506,Product 0506,Spare Parts,26.73
+P0507,Product 0507,Machinery,46.94
+P0508,Product 0508,Spare Parts,13.95
+P0509,Product 0509,Spare Parts,16.04
+P0510,Product 0510,Machinery,33.72
+P0511,Product 0511,Automotive,34.32
+P0512,Product 0512,Spare Parts,4.46
+P0513,Product 0513,Machinery,100.56
+P0514,Product 0514,Automotive,35.52
+P0515,Product 0515,Machinery,39.96
+P0516,Product 0516,Automotive,22.19
+P0517,Product 0517,Electronics,6.69
+P0518,Product 0518,Electronics,39.34
+P0519,Product 0519,Machinery,16.52
+P0520,Product 0520,Machinery,35.9
+P0521,Product 0521,Spare Parts,21.05
+P0522,Product 0522,Electronics,28.98
+P0523,Product 0523,Packaging,14.26
+P0524,Product 0524,Spare Parts,44.93
+P0525,Product 0525,Packaging,10.68
+P0526,Product 0526,Electronics,118.14
+P0527,Product 0527,Packaging,117.51
+P0528,Product 0528,Electronics,76.93
+P0529,Product 0529,Machinery,59.91
+P0530,Product 0530,Packaging,23.12
+P0531,Product 0531,Electronics,55.51
+P0532,Product 0532,Automotive,22.94
+P0533,Product 0533,Spare Parts,8.27
+P0534,Product 0534,Packaging,70.26
+P0535,Product 0535,Automotive,54.06
+P0536,Product 0536,Electronics,24.0
+P0537,Product 0537,Electronics,10.41
+P0538,Product 0538,Spare Parts,16.28
+P0539,Product 0539,Spare Parts,6.86
+P0540,Product 0540,Packaging,47.54
+P0541,Product 0541,Machinery,7.99
+P0542,Product 0542,Automotive,29.99
+P0543,Product 0543,Electronics,13.59
+P0544,Product 0544,Automotive,9.04
+P0545,Product 0545,Packaging,28.99
+P0546,Product 0546,Automotive,19.42
+P0547,Product 0547,Packaging,44.11
+P0548,Product 0548,Spare Parts,10.1
+P0549,Product 0549,Electronics,14.44
+P0550,Product 0550,Packaging,4.61
+P0551,Product 0551,Spare Parts,5.32
+P0552,Product 0552,Machinery,86.38
+P0553,Product 0553,Machinery,105.48
+P0554,Product 0554,Electronics,26.18
+P0555,Product 0555,Machinery,13.78
+P0556,Product 0556,Spare Parts,19.91
+P0557,Product 0557,Packaging,45.22
+P0558,Product 0558,Electronics,17.11
+P0559,Product 0559,Machinery,28.97
+P0560,Product 0560,Packaging,24.31
+P0561,Product 0561,Automotive,16.47
+P0562,Product 0562,Packaging,16.97
+P0563,Product 0563,Electronics,30.12
+P0564,Product 0564,Electronics,12.38
+P0565,Product 0565,Machinery,33.66
+P0566,Product 0566,Machinery,17.64
+P0567,Product 0567,Spare Parts,26.82
+P0568,Product 0568,Electronics,64.64
+P0569,Product 0569,Electronics,21.81
+P0570,Product 0570,Electronics,46.71
+P0571,Product 0571,Spare Parts,7.0
+P0572,Product 0572,Spare Parts,17.65
+P0573,Product 0573,Machinery,25.01
+P0574,Product 0574,Packaging,94.29
+P0575,Product 0575,Spare Parts,6.22
+P0576,Product 0576,Spare Parts,22.93
+P0577,Product 0577,Packaging,68.01
+P0578,Product 0578,Machinery,14.16
+P0579,Product 0579,Spare Parts,21.14
+P0580,Product 0580,Electronics,30.95
+P0581,Product 0581,Electronics,27.91
+P0582,Product 0582,Packaging,73.41
+P0583,Product 0583,Automotive,33.58
+P0584,Product 0584,Machinery,62.14
+P0585,Product 0585,Spare Parts,19.07
+P0586,Product 0586,Automotive,14.61
+P0587,Product 0587,Spare Parts,20.95
+P0588,Product 0588,Machinery,10.9
+P0589,Product 0589,Spare Parts,34.41
+P0590,Product 0590,Packaging,18.73
+P0591,Product 0591,Automotive,15.33
+P0592,Product 0592,Packaging,34.78
+P0593,Product 0593,Automotive,11.02
+P0594,Product 0594,Electronics,42.07
+P0595,Product 0595,Spare Parts,17.55
+P0596,Product 0596,Spare Parts,55.22
+P0597,Product 0597,Automotive,18.64
+P0598,Product 0598,Electronics,38.18
+P0599,Product 0599,Automotive,27.82
+P0600,Product 0600,Electronics,41.29
+P0601,Product 0601,Spare Parts,26.5
+P0602,Product 0602,Automotive,7.66
+P0603,Product 0603,Packaging,49.71
+P0604,Product 0604,Spare Parts,23.07
+P0605,Product 0605,Spare Parts,42.63
+P0606,Product 0606,Electronics,39.77
+P0607,Product 0607,Packaging,14.28
+P0608,Product 0608,Machinery,12.93
+P0609,Product 0609,Automotive,38.81
+P0610,Product 0610,Electronics,19.84
+P0611,Product 0611,Packaging,47.25
+P0612,Product 0612,Packaging,21.66
+P0613,Product 0613,Machinery,50.22
+P0614,Product 0614,Packaging,32.99
+P0615,Product 0615,Packaging,30.01
+P0616,Product 0616,Electronics,18.88
+P0617,Product 0617,Electronics,28.87
+P0618,Product 0618,Spare Parts,56.54
+P0619,Product 0619,Spare Parts,23.62
+P0620,Product 0620,Automotive,35.58
+P0621,Product 0621,Packaging,25.34
+P0622,Product 0622,Automotive,26.77
+P0623,Product 0623,Spare Parts,81.97
+P0624,Product 0624,Machinery,56.9
+P0625,Product 0625,Packaging,25.93
+P0626,Product 0626,Packaging,28.51
+P0627,Product 0627,Packaging,15.01
+P0628,Product 0628,Electronics,21.73
+P0629,Product 0629,Spare Parts,30.46
+P0630,Product 0630,Machinery,44.5
+P0631,Product 0631,Machinery,41.45
+P0632,Product 0632,Electronics,11.29
+P0633,Product 0633,Automotive,48.61
+P0634,Product 0634,Machinery,23.05
+P0635,Product 0635,Electronics,12.29
+P0636,Product 0636,Packaging,62.52
+P0637,Product 0637,Electronics,68.33
+P0638,Product 0638,Spare Parts,29.51
+P0639,Product 0639,Packaging,40.29
+P0640,Product 0640,Machinery,41.98
+P0641,Product 0641,Packaging,65.17
+P0642,Product 0642,Packaging,40.84
+P0643,Product 0643,Packaging,9.69
+P0644,Product 0644,Machinery,100.17
+P0645,Product 0645,Spare Parts,51.73
+P0646,Product 0646,Electronics,17.17
+P0647,Product 0647,Machinery,11.93
+P0648,Product 0648,Electronics,34.93
+P0649,Product 0649,Machinery,20.19
+P0650,Product 0650,Spare Parts,30.91
+P0651,Product 0651,Packaging,41.28
+P0652,Product 0652,Electronics,16.5
+P0653,Product 0653,Spare Parts,11.23
+P0654,Product 0654,Packaging,32.14
+P0655,Product 0655,Machinery,16.89
+P0656,Product 0656,Automotive,27.17
+P0657,Product 0657,Machinery,9.58
+P0658,Product 0658,Spare Parts,20.56
+P0659,Product 0659,Machinery,40.47
+P0660,Product 0660,Automotive,37.49
+P0661,Product 0661,Automotive,14.13
+P0662,Product 0662,Spare Parts,10.83
+P0663,Product 0663,Machinery,24.8
+P0664,Product 0664,Packaging,36.33
+P0665,Product 0665,Electronics,32.58
+P0666,Product 0666,Automotive,17.14
+P0667,Product 0667,Machinery,30.22
+P0668,Product 0668,Packaging,70.22
+P0669,Product 0669,Electronics,28.32
+P0670,Product 0670,Packaging,7.82
+P0671,Product 0671,Machinery,28.28
+P0672,Product 0672,Electronics,102.59
+P0673,Product 0673,Electronics,9.96
+P0674,Product 0674,Electronics,25.05
+P0675,Product 0675,Electronics,20.94
+P0676,Product 0676,Packaging,26.24
+P0677,Product 0677,Electronics,28.11
+P0678,Product 0678,Packaging,54.49
+P0679,Product 0679,Electronics,26.03
+P0680,Product 0680,Electronics,59.98
+P0681,Product 0681,Spare Parts,22.59
+P0682,Product 0682,Spare Parts,19.2
+P0683,Product 0683,Machinery,15.36
+P0684,Product 0684,Electronics,6.88
+P0685,Product 0685,Packaging,29.76
+P0686,Product 0686,Automotive,103.32
+P0687,Product 0687,Machinery,33.81
+P0688,Product 0688,Machinery,39.68
+P0689,Product 0689,Packaging,18.37
+P0690,Product 0690,Automotive,20.68
+P0691,Product 0691,Automotive,48.87
+P0692,Product 0692,Electronics,100.09
+P0693,Product 0693,Automotive,69.52
+P0694,Product 0694,Machinery,43.11
+P0695,Product 0695,Spare Parts,25.14
+P0696,Product 0696,Electronics,28.41
+P0697,Product 0697,Machinery,14.48
+P0698,Product 0698,Electronics,8.9
+P0699,Product 0699,Automotive,11.15
+P0700,Product 0700,Packaging,25.4
+P0701,Product 0701,Electronics,20.0
+P0702,Product 0702,Machinery,8.77
+P0703,Product 0703,Packaging,23.9
+P0704,Product 0704,Spare Parts,19.63
+P0705,Product 0705,Automotive,10.79
+P0706,Product 0706,Machinery,18.93
+P0707,Product 0707,Spare Parts,19.6
+P0708,Product 0708,Machinery,15.93
+P0709,Product 0709,Automotive,46.93
+P0710,Product 0710,Electronics,6.48
+P0711,Product 0711,Packaging,6.11
+P0712,Product 0712,Packaging,24.59
+P0713,Product 0713,Electronics,26.24
+P0714,Product 0714,Automotive,32.56
+P0715,Product 0715,Electronics,16.82
+P0716,Product 0716,Electronics,12.9
+P0717,Product 0717,Packaging,24.41
+P0718,Product 0718,Spare Parts,18.01
+P0719,Product 0719,Automotive,72.66
+P0720,Product 0720,Packaging,19.55
+P0721,Product 0721,Packaging,23.64
+P0722,Product 0722,Packaging,138.77
+P0723,Product 0723,Spare Parts,21.41
+P0724,Product 0724,Automotive,36.21
+P0725,Product 0725,Packaging,38.57
+P0726,Product 0726,Automotive,40.93
+P0727,Product 0727,Spare Parts,30.04
+P0728,Product 0728,Machinery,28.1
+P0729,Product 0729,Automotive,26.32
+P0730,Product 0730,Packaging,16.39
+P0731,Product 0731,Packaging,30.81
+P0732,Product 0732,Machinery,101.5
+P0733,Product 0733,Electronics,57.25
+P0734,Product 0734,Automotive,30.35
+P0735,Product 0735,Spare Parts,44.66
+P0736,Product 0736,Automotive,13.35
+P0737,Product 0737,Spare Parts,20.44
+P0738,Product 0738,Machinery,47.63
+P0739,Product 0739,Packaging,69.48
+P0740,Product 0740,Packaging,14.3
+P0741,Product 0741,Spare Parts,17.49
+P0742,Product 0742,Automotive,112.95
+P0743,Product 0743,Spare Parts,26.24
+P0744,Product 0744,Automotive,87.91
+P0745,Product 0745,Spare Parts,28.35
+P0746,Product 0746,Electronics,29.15
+P0747,Product 0747,Spare Parts,19.81
+P0748,Product 0748,Automotive,47.46
+P0749,Product 0749,Machinery,63.46
+P0750,Product 0750,Machinery,11.89
+P0751,Product 0751,Spare Parts,19.17
+P0752,Product 0752,Automotive,46.55
+P0753,Product 0753,Automotive,22.41
+P0754,Product 0754,Packaging,17.37
+P0755,Product 0755,Automotive,49.73
+P0756,Product 0756,Packaging,53.11
+P0757,Product 0757,Automotive,17.91
+P0758,Product 0758,Spare Parts,28.46
+P0759,Product 0759,Machinery,10.53
+P0760,Product 0760,Spare Parts,13.11
+P0761,Product 0761,Automotive,26.76
+P0762,Product 0762,Electronics,25.08
+P0763,Product 0763,Machinery,12.47
+P0764,Product 0764,Automotive,14.86
+P0765,Product 0765,Automotive,11.64
+P0766,Product 0766,Electronics,33.74
+P0767,Product 0767,Packaging,6.19
+P0768,Product 0768,Packaging,12.08
+P0769,Product 0769,Automotive,6.66
+P0770,Product 0770,Automotive,32.89
+P0771,Product 0771,Packaging,6.95
+P0772,Product 0772,Electronics,25.08
+P0773,Product 0773,Packaging,77.3
+P0774,Product 0774,Electronics,79.15
+P0775,Product 0775,Electronics,6.93
+P0776,Product 0776,Electronics,30.23
+P0777,Product 0777,Electronics,12.28
+P0778,Product 0778,Packaging,10.64
+P0779,Product 0779,Machinery,22.66
+P0780,Product 0780,Packaging,57.96
+P0781,Product 0781,Automotive,37.33
+P0782,Product 0782,Machinery,14.87
+P0783,Product 0783,Machinery,40.19
+P0784,Product 0784,Spare Parts,5.1
+P0785,Product 0785,Machinery,14.48
+P0786,Product 0786,Automotive,13.78
+P0787,Product 0787,Packaging,25.92
+P0788,Product 0788,Automotive,21.29
+P0789,Product 0789,Spare Parts,22.22
+P0790,Product 0790,Electronics,21.71
+P0791,Product 0791,Packaging,24.92
+P0792,Product 0792,Packaging,35.81
+P0793,Product 0793,Machinery,27.24
+P0794,Product 0794,Machinery,20.1
+P0795,Product 0795,Automotive,32.5
+P0796,Product 0796,Automotive,43.74
+P0797,Product 0797,Packaging,16.62
+P0798,Product 0798,Spare Parts,23.53
+P0799,Product 0799,Spare Parts,55.33
+P0800,Product 0800,Electronics,11.34
+P0801,Product 0801,Electronics,86.77
+P0802,Product 0802,Electronics,9.61
+P0803,Product 0803,Packaging,19.26
+P0804,Product 0804,Packaging,12.61
+P0805,Product 0805,Packaging,113.47
+P0806,Product 0806,Spare Parts,17.25
+P0807,Product 0807,Electronics,17.28
+P0808,Product 0808,Packaging,18.92
+P0809,Product 0809,Machinery,26.23
+P0810,Product 0810,Spare Parts,19.49
+P0811,Product 0811,Electronics,22.35
+P0812,Product 0812,Automotive,2.07
+P0813,Product 0813,Electronics,25.53
+P0814,Product 0814,Packaging,24.84
+P0815,Product 0815,Spare Parts,50.75
+P0816,Product 0816,Spare Parts,61.33
+P0817,Product 0817,Automotive,21.51
+P0818,Product 0818,Machinery,43.44
+P0819,Product 0819,Automotive,11.35
+P0820,Product 0820,Electronics,41.98
+P0821,Product 0821,Spare Parts,16.43
+P0822,Product 0822,Spare Parts,10.71
+P0823,Product 0823,Automotive,21.54
+P0824,Product 0824,Automotive,65.39
+P0825,Product 0825,Packaging,27.85
+P0826,Product 0826,Machinery,69.93
+P0827,Product 0827,Machinery,14.53
+P0828,Product 0828,Spare Parts,51.09
+P0829,Product 0829,Spare Parts,15.54
+P0830,Product 0830,Spare Parts,28.72
+P0831,Product 0831,Packaging,28.55
+P0832,Product 0832,Spare Parts,38.98
+P0833,Product 0833,Packaging,29.24
+P0834,Product 0834,Spare Parts,14.62
+P0835,Product 0835,Machinery,45.43
+P0836,Product 0836,Automotive,82.45
+P0837,Product 0837,Spare Parts,16.3
+P0838,Product 0838,Spare Parts,6.79
+P0839,Product 0839,Electronics,34.8
+P0840,Product 0840,Machinery,19.46
+P0841,Product 0841,Machinery,22.38
+P0842,Product 0842,Packaging,36.21
+P0843,Product 0843,Packaging,17.82
+P0844,Product 0844,Electronics,20.32
+P0845,Product 0845,Spare Parts,22.87
+P0846,Product 0846,Spare Parts,68.64
+P0847,Product 0847,Spare Parts,25.05
+P0848,Product 0848,Machinery,10.33
+P0849,Product 0849,Automotive,10.62
+P0850,Product 0850,Spare Parts,27.04
+P0851,Product 0851,Automotive,11.13
+P0852,Product 0852,Automotive,8.22
+P0853,Product 0853,Electronics,38.28
+P0854,Product 0854,Automotive,39.61
+P0855,Product 0855,Packaging,18.96
+P0856,Product 0856,Machinery,30.13
+P0857,Product 0857,Electronics,27.99
+P0858,Product 0858,Automotive,37.4
+P0859,Product 0859,Electronics,37.46
+P0860,Product 0860,Packaging,3.96
+P0861,Product 0861,Packaging,20.73
+P0862,Product 0862,Electronics,35.25
+P0863,Product 0863,Automotive,18.41
+P0864,Product 0864,Machinery,25.16
+P0865,Product 0865,Packaging,41.49
+P0866,Product 0866,Automotive,25.96
+P0867,Product 0867,Packaging,70.5
+P0868,Product 0868,Automotive,53.99
+P0869,Product 0869,Electronics,22.58
+P0870,Product 0870,Packaging,21.36
+P0871,Product 0871,Automotive,3.34
+P0872,Product 0872,Electronics,19.52
+P0873,Product 0873,Automotive,9.51
+P0874,Product 0874,Electronics,28.64
+P0875,Product 0875,Packaging,27.3
+P0876,Product 0876,Electronics,39.93
+P0877,Product 0877,Automotive,65.21
+P0878,Product 0878,Electronics,24.09
+P0879,Product 0879,Automotive,121.06
+P0880,Product 0880,Packaging,28.87
+P0881,Product 0881,Spare Parts,9.8
+P0882,Product 0882,Automotive,16.55
+P0883,Product 0883,Packaging,18.9
+P0884,Product 0884,Electronics,37.13
+P0885,Product 0885,Automotive,12.64
+P0886,Product 0886,Packaging,19.91
+P0887,Product 0887,Electronics,21.92
+P0888,Product 0888,Machinery,17.93
+P0889,Product 0889,Machinery,43.29
+P0890,Product 0890,Machinery,38.43
+P0891,Product 0891,Automotive,55.51
+P0892,Product 0892,Electronics,19.46
+P0893,Product 0893,Packaging,56.93
+P0894,Product 0894,Spare Parts,9.44
+P0895,Product 0895,Automotive,9.28
+P0896,Product 0896,Machinery,10.49
+P0897,Product 0897,Spare Parts,24.69
+P0898,Product 0898,Electronics,56.92
+P0899,Product 0899,Machinery,16.09
+P0900,Product 0900,Spare Parts,17.57
+P0901,Product 0901,Spare Parts,21.09
+P0902,Product 0902,Packaging,36.63
+P0903,Product 0903,Packaging,17.56
+P0904,Product 0904,Packaging,16.89
+P0905,Product 0905,Electronics,9.57
+P0906,Product 0906,Spare Parts,16.44
+P0907,Product 0907,Automotive,55.94
+P0908,Product 0908,Automotive,26.14
+P0909,Product 0909,Packaging,14.62
+P0910,Product 0910,Spare Parts,58.28
+P0911,Product 0911,Spare Parts,16.29
+P0912,Product 0912,Packaging,66.29
+P0913,Product 0913,Electronics,65.53
+P0914,Product 0914,Electronics,25.51
+P0915,Product 0915,Machinery,8.59
+P0916,Product 0916,Electronics,121.83
+P0917,Product 0917,Machinery,32.17
+P0918,Product 0918,Automotive,19.56
+P0919,Product 0919,Electronics,47.91
+P0920,Product 0920,Spare Parts,40.11
+P0921,Product 0921,Packaging,61.42
+P0922,Product 0922,Automotive,15.43
+P0923,Product 0923,Electronics,30.66
+P0924,Product 0924,Electronics,10.7
+P0925,Product 0925,Electronics,39.11
+P0926,Product 0926,Packaging,24.14
+P0927,Product 0927,Spare Parts,29.87
+P0928,Product 0928,Packaging,22.14
+P0929,Product 0929,Machinery,20.58
+P0930,Product 0930,Automotive,13.36
+P0931,Product 0931,Automotive,42.66
+P0932,Product 0932,Spare Parts,69.6
+P0933,Product 0933,Packaging,16.62
+P0934,Product 0934,Machinery,36.14
+P0935,Product 0935,Machinery,33.2
+P0936,Product 0936,Spare Parts,24.67
+P0937,Product 0937,Spare Parts,8.43
+P0938,Product 0938,Automotive,9.86
+P0939,Product 0939,Electronics,14.2
+P0940,Product 0940,Automotive,5.49
+P0941,Product 0941,Electronics,65.73
+P0942,Product 0942,Packaging,31.73
+P0943,Product 0943,Electronics,24.02
+P0944,Product 0944,Automotive,5.3
+P0945,Product 0945,Machinery,6.84
+P0946,Product 0946,Machinery,24.49
+P0947,Product 0947,Packaging,97.45
+P0948,Product 0948,Automotive,15.04
+P0949,Product 0949,Electronics,44.91
+P0950,Product 0950,Packaging,17.53
+P0951,Product 0951,Packaging,25.5
+P0952,Product 0952,Spare Parts,57.41
+P0953,Product 0953,Spare Parts,19.26
+P0954,Product 0954,Spare Parts,15.13
+P0955,Product 0955,Machinery,66.2
+P0956,Product 0956,Spare Parts,25.33
+P0957,Product 0957,Machinery,52.66
+P0958,Product 0958,Spare Parts,15.19
+P0959,Product 0959,Electronics,65.67
+P0960,Product 0960,Machinery,29.71
+P0961,Product 0961,Packaging,33.26
+P0962,Product 0962,Electronics,26.9
+P0963,Product 0963,Automotive,17.22
+P0964,Product 0964,Spare Parts,24.5
+P0965,Product 0965,Machinery,18.0
+P0966,Product 0966,Spare Parts,48.02
+P0967,Product 0967,Electronics,21.28
+P0968,Product 0968,Spare Parts,8.61
+P0969,Product 0969,Packaging,7.57
+P0970,Product 0970,Packaging,7.33
+P0971,Product 0971,Packaging,37.81
+P0972,Product 0972,Electronics,10.96
+P0973,Product 0973,Spare Parts,30.27
+P0974,Product 0974,Spare Parts,26.99
+P0975,Product 0975,Packaging,23.45
+P0976,Product 0976,Spare Parts,33.34
+P0977,Product 0977,Spare Parts,27.41
+P0978,Product 0978,Packaging,3.68
+P0979,Product 0979,Machinery,19.56
+P0980,Product 0980,Spare Parts,33.04
+P0981,Product 0981,Automotive,77.34
+P0982,Product 0982,Machinery,79.88
+P0983,Product 0983,Spare Parts,9.45
+P0984,Product 0984,Spare Parts,19.21
+P0985,Product 0985,Electronics,8.2
+P0986,Product 0986,Automotive,71.09
+P0987,Product 0987,Electronics,49.85
+P0988,Product 0988,Spare Parts,31.36
+P0989,Product 0989,Machinery,27.56
+P0990,Product 0990,Automotive,64.49
+P0991,Product 0991,Automotive,57.28
+P0992,Product 0992,Electronics,55.18
+P0993,Product 0993,Electronics,33.77
+P0994,Product 0994,Automotive,19.21
+P0995,Product 0995,Machinery,41.97
+P0996,Product 0996,Machinery,43.43
+P0997,Product 0997,Automotive,21.47
+P0998,Product 0998,Electronics,19.18
+P0999,Product 0999,Packaging,54.23
+P1000,Product 1000,Spare Parts,78.64

@@ -1,0 +1,8 @@
+table,rows,purpose
+customers,5000,Customer master data
+products,1000,Product master data
+warehouses,12,Warehouse master data
+suppliers,80,Supplier master data
+carriers,15,Carrier master data
+orders,100080,Operational orders
+deliveries,100050,Operational deliveries

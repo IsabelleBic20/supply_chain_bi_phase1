@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,country,capacity
+W01,Warehouse 01,Germany,20207
+W02,Warehouse 02,Spain,27715
+W03,Warehouse 03,Brazil,15843
+W04,Warehouse 04,France,17137
+W05,Warehouse 05,Spain,25643
+W06,Warehouse 06,Italy,23070
+W07,Warehouse 07,Netherlands,10019
+W08,Warehouse 08,Italy,18100
+W09,Warehouse 09,Spain,10336
+W10,Warehouse 10,Germany,24023
+W11,Warehouse 11,Germany,5748
+W12,Warehouse 12,Netherlands,25674

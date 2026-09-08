@@ -1,0 +1,16 @@
+carrier_id,carrier_name,service_level
+T01,Carrier 01,Premium
+T02,Carrier 02,Premium
+T03,Carrier 03,Standard
+T04,Carrier 04,Express
+T05,Carrier 05,Express
+T06,Carrier 06,Standard
+T07,Carrier 07,Standard
+T08,Carrier 08,Standard
+T09,Carrier 09,Premium
+T10,Carrier 10,Express
+T11,Carrier 11,Standard
+T12,Carrier 12,Premium
+T13,Carrier 13,Standard
+T14,Carrier 14,Premium
+T15,Carrier 15,Express
