@@ -1,0 +1,7 @@
+rule_id,rule_name,dimension,violation_count,total_records,violation_rate_pct,severity
+DQ-003,Missing customer,Completeness,120,100000,0.12,Medium
+DQ-004,Orphan customer,Referential Integrity,50,100000,0.05,High
+DQ-005,Negative quantity,Validity,60,100000,0.06,High
+DQ-006,Order value mismatch,Consistency,60,100000,0.06,High
+DQ-008,Missing transport cost,Completeness,100,100000,0.1,Medium
+DQ-009,Invalid delivery date,Validity,75,100000,0.075,High
